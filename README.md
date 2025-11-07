@@ -1,2 +1,3 @@
 # Rock-Paper-Scissors-game
-A really simple rock paper scissors game
+A really simple rock paper scissors game i made in school cuz i was bored...
+
